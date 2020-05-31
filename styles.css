@@ -1,0 +1,39 @@
+.container{
+  position: relative;
+   min-width:  100%;
+   min-height: 500px;
+  display: flex;
+  align-items: center;
+   justify-content: center;
+  overflow: hidden;
+
+}
+.background-img{
+  background-color: yellow;
+
+
+}
+.end{
+  padding-left: 20px;
+  text-align: center;
+  background-color:whitesmoke;
+  color:black;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+#intro{
+  background-color: white;
+ text-align: center;
+}
+.about{
+  margin-top: 50px;
+}
+#contact{
+  padding-left: 20px;
+  text-align: center;
+  background-color:whitesmoke;
+  color:black;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
